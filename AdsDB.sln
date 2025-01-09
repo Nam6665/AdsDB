@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdsDB", "AdsDB.csproj", "{89DDB708-CCC1-47CA-92AA-BF21EFB2A589}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89DDB708-CCC1-47CA-92AA-BF21EFB2A589}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89DDB708-CCC1-47CA-92AA-BF21EFB2A589}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89DDB708-CCC1-47CA-92AA-BF21EFB2A589}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89DDB708-CCC1-47CA-92AA-BF21EFB2A589}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAA99276-8071-4BAA-AD39-072F6C950A71}
+	EndGlobalSection
+EndGlobal
